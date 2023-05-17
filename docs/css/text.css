@@ -1,0 +1,31 @@
+
+.verse1 {
+    color:yellow;
+    background-color: black;
+    text-align: center;
+}
+
+.chorus2 {
+    color:purple;
+    background-color:aqua;
+}
+
+.verse {
+    color:blue;
+}
+
+.chorus {
+    color:green;
+    font-size:12px;
+}
+
+body {
+    background-color:bisque;
+}
+
+.text_effect{
+    font-weight: 900;
+    font-size: 20px;
+    color: coral;
+    text-shadow: 5px 5px 5px black;
+}
